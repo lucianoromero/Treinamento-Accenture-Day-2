@@ -6,7 +6,8 @@ body {
 #phone button {
     height: 40px;
     width: 55px;
-    margin: 20%;       
+    margin: 20%;   
+    border-radius: 15px;    
 }
   
 #phone button span {
