@@ -9,6 +9,7 @@
 * Aleff Diego Trajano Diniz :rocket:
 * Luciano Luiz Romero  :rocket:
 * Giselle Cristina Marques Lemes :rocket:
+* Sthenley Macedo :rocket:
 ******
 Desafio
 CASE TÉCNICO
@@ -18,7 +19,7 @@ Lembram daqueles celulares bem antigos, que tinham letras nas teclas numéricas?
 O desafio de vocês agora será inspirado nesses telefones. Vocês deverão pegar a sequência numérica a seguir e traduzir em uma palavra:
 
 2 222 222 33 66 8 88 777 33
-A ABC ABC DE no
+
 
 Entregáveis:
 
